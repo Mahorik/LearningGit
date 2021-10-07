@@ -1,0 +1,15 @@
+1. git init - инициализация гит проекта
+2. git status - узнаем статус гит проекта
+3. git add <filename> - объявляем слежку за файлом
+4. git commit -m <message> - коммитим
+5. git push - пушим репозиторий
+6. git pull - тянем изменения репозитория
+7. git clone - клонируем репозиторий
+8. git rm -chached <fileName> -  удаляет
+9. git branch - просмотр всех ветвей
+10. git brunch <brunch name> - создание новой ветки
+11. git brunch -D <brunch name> - удаление ветки
+12. git checkout <brunch name> - переключение на ветку
+13. git checkout -b <new brucn name> - создание и переключение на новую ветку
+14.
+15.
